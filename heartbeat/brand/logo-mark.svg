@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"
-     fill="none" stroke="#16202B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-  <title>Heartbeat</title>
-  <path d="M15 13 V51 M49 13 V51"/>
-  <path d="M15 17 H49"/>
-  <path d="M15 32 H24 L26.5 28 L29 17 L32 45 L34.5 29 L36.8 33 H49"/>
-  <path d="M15 47 H49"/>
-</svg>
